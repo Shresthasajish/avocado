@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "name": "Sajish",
+      "layout": "Horizontal",
+      "capacity": 3,
+      "status": "online",
+      "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     },
     {
       "id": 2,
