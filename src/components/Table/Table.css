@@ -1,0 +1,116 @@
+.table{
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    height: 450px;
+    width: 1200px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    display: flex; 
+    
+}
+
+.vl {
+    border-left: 2px solid #bebebe;
+    height: 430px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.inside{
+    margin-left: 10px;
+    font-size: 15px;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;  
+}
+
+.content{
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 69vw;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+
+
+.select{
+    height: 40px;
+    width: 45vw;
+    font-size: 20px;
+    margin-left: 30px;
+    border: 1px solid#bebebe;
+    border-radius: 8px;
+    text-align: left;
+    padding-left: 20px;
+    
+}
+
+.layout{
+    color: #909292;
+}
+
+.list{
+    padding-left: 10px;
+    color: black;
+}
+
+.name{
+    height: 37px;
+    width: 43.1vw;
+    font-size: 20px;
+    margin-left: 35px;
+    border: 1px solid#bebebe;
+    border-radius: 8px;
+    text-align: left;
+    padding-left: 24px;
+}
+
+.capacity{
+    height: 37px;
+    width: 43.1vw;
+    font-size: 20px;
+    margin-left: 18px;
+    border: 1px solid#bebebe;
+    border-radius: 8px;
+    text-align: left;
+    padding-left: 24px;
+}
+
+.checkBox{
+    margin-left: 33px;
+}
+
+.imgselect{
+    margin-left: 32px;
+}
+
+.buttons{
+    margin-left: 70px;
+}
+
+.button {
+    background-color: #0b2343;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 35px;
+  }
+
+  .cancel{
+      background-color: #e74a3b;
+  }
