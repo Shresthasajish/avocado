@@ -1,4 +1,4 @@
-
+{
   "posts": [
     {
       "name": "Sajish",
@@ -21,6 +21,9 @@
       "status": "online",
       "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     }
-]
-
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
