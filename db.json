@@ -1,25 +1,25 @@
 {
    "tablecontents": [{
       "id": 1,
-      "name": "Sajish",
-      "layout": "Horizontal",
-      "capacity": 3,
+      "name": "Sajish Shrestha",
+      "layout": "Vertical",
+      "capacity": 32,
       "status": "online",
       "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     },
    {  
       "id": 2,
-      "name": "Sajish",
+      "name": "ABCE",
       "layout": "Horizontal",
       "capacity": 3,
-      "status": "online",
+      "status": "",
       "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     },
     {
       "id": 3,
-      "name": "Sajish",
+      "name": "XYZ",
       "layout": "Horizontal",
-      "capacity": 3,
+      "capacity": 1,
       "status": "online",
       "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     }
