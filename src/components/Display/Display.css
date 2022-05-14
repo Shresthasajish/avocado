@@ -1,0 +1,45 @@
+.tableDisplay{
+    
+    margin-left: 2.5%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.tableDisplay td{
+    padding-top:10px ;
+    padding-bottom: 10px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    background-color: #f5f5f5;
+    color: black;
+    font-size: 20px;
+    border: 1px solid #ddd;
+    width: 180px;
+    height: 40px;
+}
+
+.image1{
+    height: 30px;
+    width: 30px;
+    
+}
+
+.btns{
+    background-color: #69378e;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 35px;
+}
+
+.btns:hover{
+    background-color: #76558f;
+}

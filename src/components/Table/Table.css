@@ -114,3 +114,7 @@
   .cancel{
       background-color: #e74a3b;
   }
+  
+  .button:hover{
+    background-color: #217ef8;
+  }

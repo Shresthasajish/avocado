@@ -1,0 +1,15 @@
+.background{
+    display: flex;
+    flex-direction: column;
+    gap: 70%;
+}
+
+.headings th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 30px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+  font-size: 30px;
+}

@@ -43,7 +43,7 @@ function Navbar() {
                 <a href="https://www.facebook.com/Lighshot"><img src="./images/facebook.png" alt="facebook" className='image'/></a>
                 
                 <a href="https://app.prntscr.com/en/download.html">
-                    <button class="btn"><i class="fa fa-download"></i> Download Lightshot for free</button>
+                    <button className="btn"><i className="fa fa-download"></i> Download Lightshot for free</button>
                 </a>
                 
                 
