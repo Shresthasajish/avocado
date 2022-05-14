@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Sajish Shrestha",
       "layout": "Vertical",
-      "capacity": 32,
+      "capacity": "32",
       "status": "online",
       "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "name": "ABCE",
       "layout": "Horizontal",
-      "capacity": 3,
+      "capacity": "3",
       "status": "",
       "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "name": "XYZ",
       "layout": "Horizontal",
-      "capacity": 1,
+      "capacity":"1",
       "status": "online",
       "image":"https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
     }
